@@ -2,7 +2,7 @@
 <h3 align="center">Passionate and Aspiring Software Developer from India</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+</div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliali363&label=Profile%20views&color=0e75b6&style=flat" alt="aliali363" /> </p>
 
